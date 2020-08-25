@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jInstagram-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="lib/mockito-all-1.8.4.jar"/>
+	<classpathentry kind="lib" path="lib/sdk-0.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-nop-1.7.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections4-4.1/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.5/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.5/commons-lang3-3.5-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.5/commons-lang3-3.5-test-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.5/commons-lang3-3.5-tests.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.5/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.3/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.3/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.3/lib/fluent-hc-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.3/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.3/lib/httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.3/lib/httpclient-win-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.3/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.3/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.3/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.3/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.json-20120521.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
